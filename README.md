@@ -1,71 +1,70 @@
-🧭 About Me
+# 👋 Hi, I'm Safeeq Ahamed  
 
-👨‍🎓 B.Tech – Computer Science & Engineering, VIT Chennai (2022–2026)
+🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast  
 
-💻 Full‑Stack (MERN) + ML/Deep Learning
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeq-ahamed7)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SafeeqAhamed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Safeeq_Ahamed/)
 
-☁️ AWS Cloud enthusiast & AWS Cloud Practitioner certified
+---
 
-🧩 I love solving real‑world problems and polishing systems end‑to‑end
+## 🧑‍🎓 About Me  
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **VIT, Chennai** (CGPA: 8.82).  
+- 🌟 Passionate about **Full-Stack Development, Cloud Computing (AWS), and Machine Learning**.  
+- 🏏 Team Player & Leader — led my school cricket team and hosted large-scale events.  
+- 🔥 Constantly solving coding challenges (**200+ LeetCode problems**).  
 
-🏏 Team player (cricket captain) & event host 🎤
+---
 
-🔭 Featured Projects
+## ⚡ Skills  
 
-Visuals make everything better! Add GIFs/demo screenshots inside each card (drag files into your repo’s /assets folder and update the src).
+**Languages**: C, C++, Java, Python  
+**Web/Tools**: HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL  
+**ML & Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
+**Cloud**: AWS (S3, Lambda, DynamoDB, Rekognition, EC2, IAM)  
+**Soft Skills**: Problem-solving, Teamwork, Leadership, Communication  
 
-🛠️ Tech Stack
-🧪 What I'm Learning
+---
 
-Advanced ML model stacking and MLOps
+## 🚀 Projects  
 
-AWS serverless architectures & CDK
+### 🔹 [FFCS XChanger](#) — MERN Full-Stack App  
+- Automated faculty slot-change requests with **500+ active student logins**.  
+- Implemented **JWT authentication, REST APIs, MongoDB integration**.  
 
-System design for scalable web apps
+### 🔹 [Aircraft Injury Severity Prediction](#) — Machine Learning  
+- Built a **hybrid ML model (MLP + Random Forest + XGBoost)**.  
+- Achieved **94.5% accuracy** in predicting accident severity.  
 
-🏅 Certifications
-📊 GitHub Analytics
+### 🔹 [Cloud-Based Criminal Identification System](#) — AWS Solution  
+- Used **AWS Rekognition + DynamoDB + Lambda** for real-time facial recognition.  
+- Designed a **scalable, event-driven cloud solution** for identity verification.  
 
-Tip: If any image fails on first load, refresh once—these services sometimes cache.
+---
 
-🐍 Contribution Graph Snake (Animated)
+## 🏆 Certifications  
+- ☁️ **AWS Cloud Practitioner – Amazon Web Services**  
+- 📊 **Data Analytics & Visualization – Accenture**  
+- 🗄️ **Introduction to MongoDB – Coursera**  
 
-Enable this with a small GitHub Action (instructions below). Once set, this image animates your contribution graph.
+---
 
-Create a repo named SafeeqAhamed (exactly your username). This becomes your profile README repo.
+## 📈 GitHub Stats  
 
-Add a folder .github/workflows/ and create snake.yml with the contents below.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SafeeqAhamed&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeeqAhamed&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 
-Commit and push. The Action will generate the output/github-contribution-grid-snake.svg file.
+---
 
-name: Generate snake
-on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:
+## 📫 Let's Connect!  
+- ✉️ Email: **ssafeeq2004@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/safeeq-ahamed7)  
+- 🌐 [GitHub](https://github.com/SafeeqAhamed)  
+- 🧩 [LeetCode](https://leetcode.com/u/Safeeq_Ahamed/)  
 
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SafeeqAhamed
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-🤝 Connect with Me
+⭐️ *“Code. Build. Innovate. Repeat.”*  
 
-💼 LinkedIn: @safeeq-ahamed7
-
-💻 GitHub: @SafeeqAhamed
-
-📧 Email: ssafeeq2004@gmail.com
-
-🧠 LeetCode: @Safeeq_Ahamed
