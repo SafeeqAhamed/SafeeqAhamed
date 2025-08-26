@@ -38,13 +38,6 @@
 
 ---
 
-## 🚀 Projects  
-
-### 🔹 [FFCS XChanger](#) — MERN Full-Stack App  
-- Automated faculty slot-change requests with **500+ active student logins**.  
-- Implemented **JWT authentication, REST APIs, MongoDB integr**
-
-
 
 # 👋 Hi, I'm Safeeq Ahamed  
 
