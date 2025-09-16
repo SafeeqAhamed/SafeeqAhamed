@@ -23,7 +23,7 @@
 ## 🧑‍🎓 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **VIT, Chennai** (CGPA: 8.82).  
 - 🌟 Passionate about **Full-Stack Development, Cloud Computing (AWS), and Machine Learning**.  
-- 🏏 Team Player & Leader — led my school cricket team and hosted large-scale events.  
+- 🏏 Team Player & Leader — led my cricket team and hosted large-scale events.  
 - 🔥 Constantly solving coding challenges (**200+ LeetCode problems**).  
 
 ---
