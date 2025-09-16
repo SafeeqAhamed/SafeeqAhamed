@@ -41,17 +41,18 @@
 
 ## 🚀 Projects  
 
-### 🔹 [FFCS XChanger](#) — MERN Full-Stack App  
+### 🔹 [FFCS XChanger](https://github.com/SafeeqAhamed/FFCS_Xchanger) — MERN Full-Stack App  
 - Automated faculty slot-change requests with **500+ active student logins**.  
 - Implemented **JWT authentication, REST APIs, MongoDB integration**.  
 
-### 🔹 [Aircraft Injury Severity Prediction](#) — Machine Learning  
+### 🔹 [Aircraft Injury Severity Prediction](https://github.com/SafeeqAhamed/Air-Craft-Severity-Prediction) — Machine Learning  
 - Built a **hybrid ML model (MLP + Random Forest + XGBoost)**.  
 - Achieved **94.5% accuracy** in predicting accident severity.  
 
-### 🔹 [Cloud-Based Criminal Identification System](#) — AWS Solution  
+### 🔹 [Cloud-Based Criminal Identification System](https://github.com/SafeeqAhamed/Intelligent-Cloud-Based-Criminal-Identification-System) — AWS Solution  
 - Used **AWS Rekognition + DynamoDB + Lambda** for real-time facial recognition.  
 - Designed a **scalable, event-driven cloud solution** for identity verification.  
+
 
 ---
 
