@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Safeeq Ahamed  
 
-🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | ☁️ Cloud Enthusiast  
+🚀 Aspiring Software Engineer | 💻 Backend Developer | ☁️ Cloud practitioner  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/safeeq-ahamed7)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SafeeqAhamed)
